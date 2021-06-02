@@ -1,0 +1,29 @@
+Gavin Ryder, COEN 12L - 27448
+April 6, 2021
+
+
+**Average of Unique**
+                                 Unsorted     Sorted
+Bible	                          4.399       0.426
+Genesis	                          0.074       0.030
+GreenEggsAndHam	                  0.009       0.010
+HoundsOfTheBaskervilles	         0.234       0.060
+Macbeth	                          0.094       0.025
+TheCountOfMonteCristo	         3.745       0.359
+TheSecretGarden	                 0.258       0.060
+TheWarOfTheWorlds	         0.314       0.069
+TreasureIsland	                 0.323       0.057
+TwentyThousandLeagues             0.672       0.122
+
+**Average of Parity**
+                                 Unsorted    Sorted
+Bible	                         29.882      3.859
+Genesis	                          0.303       0.062
+GreenEggsAndHam	                  0.009       0.009
+HoundOfTheBaskervilles	         1.005       0.203
+Macbeth	                          0.225       0.074
+TheCountOfMonteCristo	         29.006      3.921
+TheSecretGarden	                 1.223       0.278
+TheWarOfTheWorlds              	1.266       0.271
+TreasureIsland	                 1.283       0.250
+TwentyThousandLeagues             2.953       0.500
